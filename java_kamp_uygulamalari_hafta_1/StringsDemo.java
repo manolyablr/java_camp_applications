@@ -1,4 +1,4 @@
-package java_kamp_uygulamalari;
+package java_kamp_uygulamalari_hafta_1;
 
 public class StringsDemo {
 
